@@ -1,24 +1,37 @@
 import './App.css';
+import { useState, useEffect} from 'react';
+import DataRow from './components/data_row';
 
 function App() {
 
-  function handleClick() {
+  const [ serverData, setServerData ] = useState([]);
+
+  useEffect(() => {
+    Fetching();
+  }, []);
+
+  async function Fetching() {
     console.log('You clicked ME');
-    fetch("http://localhost:8080/json-data", {
+    await fetch("http://localhost:8080/json-data", {
       method: "GET",
       mode: "cors",
-  })
-  .then(resp => resp.json())
-  .then(data => {
-    console.log("json data");
-    console.log(data); 
-  })
+    })
+    .then(resp => resp.json())
+    .then(data => {
+      setServerData(data);
+      console.log("server-data");
+      console.log(data); 
+    })
   }
-    
+  
+  // <button onClick={handleClick}>Click Me</button> 
   return (
     <div className="App">
       <header className="App-header">
-        <button onClick={handleClick}>Click Me</button> 
+        {serverData 
+          ? serverData.map((item, index) => < DataRow row={item} key={index}/>)
+          : <></>
+        }
       </header>
     </div>
   );
