@@ -11,7 +11,7 @@ function App() {
   }, []);
 
   async function Fetching() {
-    console.log('You clicked ME');
+    console.log('Starting fetch');
     await fetch("http://localhost:8080/json-data", {
       method: "GET",
       mode: "cors",
@@ -19,7 +19,7 @@ function App() {
     .then(resp => resp.json())
     .then(data => {
       setServerData(data);
-      console.log("server-data");
+      console.log("server-data:");
       console.log(data); 
     })
   }
@@ -28,6 +28,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h2>CITY LIST</h2>
         {serverData 
           ? serverData.map((item, index) => < DataRow row={item} key={index}/>)
           : <></>

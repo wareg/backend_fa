@@ -10,16 +10,21 @@ function DataRow(props) {
   // console.log("dbrow");
   // console.log(props);
   return(
-    <>
-    <p>{props.row.city} ({props.row.country})</p>
-    {showDetails
-      ? <>
-          <p>{`province: ${props.row.province}`}</p>
-        </>
-      : <></>
-    }
-    <button onClick={handleClick}>Details</button>
-    </>
+    <div className="row">
+      <h4>
+        {props.row.city} 
+        <img src={props.row.country_icon} alt="country flag"/>   
+      </h4>
+      {showDetails
+        ? <>
+            <p>{`country: ${props.row.country}`}</p>
+            <p>{`province: ${props.row.province}`}</p>
+            <p>{`latitude: ${props.row.latitude}`}</p>
+            <p>{`longitude: ${props.row.longitude}`}</p>
+          </>
+        : <></>   }
+      <button onClick={handleClick}>Details</button>
+    </div>
   )
 }
 
