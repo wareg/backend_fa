@@ -1,0 +1,172 @@
+[
+    {
+        "latitude": "71.39",
+        "longitude": "128.52",
+        "geo": "71.39, 128.52",
+        "city": "Tiksi",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Flag_of_Sakha.svg/23px-Flag_of_Sakha.svg.png",
+        "province": "Sakha Republic",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "71.32",
+        "longitude": "52.19",
+        "geo": "71.32, 52.19",
+        "city": "Belushya Guba",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Arkhangelsk_Oblast.svg/23px-Flag_of_Arkhangelsk_Oblast.svg.png",
+        "province": "Arkhangelsk Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "71.18",
+        "longitude": "156.46",
+        "geo": "71.18, 156.46",
+        "city": "Barrow",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/21px-Flag_of_Alaska.svg.png",
+        "province": "Alaska",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "70.59",
+        "longitude": "25.59",
+        "geo": "70.59, 25.59",
+        "city": "Honningsvåg",
+        "province_icon": null,
+        "province": "Finnmark",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "70.40",
+        "longitude": "23.41",
+        "geo": "70.40, 23.41",
+        "city": "Hammerfest",
+        "province_icon": null,
+        "province": "Finnmark",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "70.12",
+        "longitude": "148.31",
+        "geo": "70.12, 148.31",
+        "city": "Deadhorse",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/21px-Flag_of_Alaska.svg.png",
+        "province": "Alaska",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "country": "United States"
+    },
+    {
+        "latitude": "70.05",
+        "longitude": "27.53",
+        "geo": "70.05, 27.53",
+        "city": "Nuorgam",
+        "province_icon": null,
+        "province": "Lapland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "70.05",
+        "longitude": "29.44",
+        "geo": "70.05, 29.44",
+        "city": "Vadsø",
+        "province_icon": null,
+        "province": "Finnmark",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "69.54",
+        "longitude": "27.01",
+        "geo": "69.54, 27.01",
+        "city": "Utsjoki",
+        "province_icon": null,
+        "province": "Lapland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "country": "Finland"
+    },
+    {
+        "latitude": "69.41",
+        "longitude": "18.57",
+        "geo": "69.41, 18.57",
+        "city": "Tromsø",
+        "province_icon": null,
+        "province": "Troms",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "69.27",
+        "longitude": "133.02",
+        "geo": "69.27, 133.02",
+        "city": "Tuktoyaktuk",
+        "province_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Northwest_Territories.svg/23px-Flag_of_the_Northwest_Territories.svg.png",
+        "province": "Northwest Territories",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+        "country": "Canada"
+    },
+    {
+        "latitude": "69.20",
+        "longitude": "88.13",
+        "geo": "69.20, 88.13",
+        "city": "Norilsk",
+        "province_icon": null,
+        "province": "Krasnoyarsk Krai",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "68.58",
+        "longitude": "33.05",
+        "geo": "68.58, 33.05",
+        "city": "Murmansk",
+        "province_icon": null,
+        "province": "Murmansk Oblast",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    },
+    {
+        "latitude": "68.47",
+        "longitude": "16.32",
+        "geo": "68.47, 16.32",
+        "city": "Harstad",
+        "province_icon": null,
+        "province": "Troms",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "68.25",
+        "longitude": "17.34",
+        "geo": "68.25, 17.34",
+        "city": "Narvik",
+        "province_icon": null,
+        "province": "Nordland",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "country": "Norway"
+    },
+    {
+        "latitude": "67.51",
+        "longitude": "20.13",
+        "geo": "67.51, 20.13",
+        "city": "Kiruna",
+        "province_icon": null,
+        "province": "Norrbotten",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "country": "Sweden"
+    },
+    {
+        "latitude": "67.33",
+        "longitude": "133.23",
+        "geo": "67.33, 133.23",
+        "city": "Verkhoyansk",
+        "province_icon": null,
+        "province": "Sakha Republic",
+        "country_icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "country": "Russia"
+    }
+]
